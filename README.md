@@ -2,7 +2,7 @@
 
 ### This is a minimal example of using Prisma with PostgreSQL Database. 
 
-#### If you want to try this repo, follow the steps below:
+#### ⚙️ If you want to try this repo, follow the steps below:
 
 First clone the project by running following command in your directory:
 
